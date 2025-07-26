@@ -1,1 +1,1 @@
-# stock-forecasting-via-LSTM-Prophet
+# stock-forecasting-via-LSTM
